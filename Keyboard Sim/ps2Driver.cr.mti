@@ -6,4 +6,11 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	keyboardTestbench
 
+} {} {}} {C:/Users/alec.QUAILNET/OneDrive/Documents/Tmp School/ECE 272/Final Project/code/KeyboardDriver.sv} {1 {vlog -work work -sv -stats=none {C:/Users/alec.QUAILNET/OneDrive/Documents/Tmp School/ECE 272/Final Project/code/KeyboardDriver.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module KeyboardDriver
+
+Top level modules:
+	KeyboardDriver
+
 } {} {}}

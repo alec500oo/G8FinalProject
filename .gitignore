@@ -1,2 +1,5 @@
 # Visual Studio Code files.
 .vscode
+
+# ModelSim Dir
+Keyboard*Sim/work/
